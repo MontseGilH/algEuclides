@@ -1,11 +1,11 @@
-#
-# Programa para calcular un máximo común divisor
-# Programado por : Montserrat Gil
-# Fecha: 22 de abril 2022
-#
+"""
+Programa para calcular un máximo común divisor
+Autor : Montserrat Gil
+Fecha: 22 de abril 2022
+"""
 
-num1 = int(input("Mayor numero: "))
-num2 = int(input("Menor numero: "))
+num1 = int(input("Número 1: "))
+num2 = int(input("Número 2: "))
 
 fin = False
 
