@@ -20,11 +20,4 @@ while not fin:
     else:
         temp1 = num1
         num1=num2
-        mult = division*num2
-        num2=temp1-mult
-    
-
-        
-    
-        
-    
+        num2=temp1-(division*num2)
