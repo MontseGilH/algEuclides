@@ -4,8 +4,8 @@ Autor : Montserrat Gil
 Fecha: 22 de abril 2022
 """
 
-num1 = int(input("Número 1: "))
-num2 = int(input("Número 2: "))
+num1 = int(input("Numero 1: "))
+num2 = int(input("Numero 2: "))
 
 fin = False
 
